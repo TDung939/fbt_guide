@@ -11,7 +11,7 @@ const config = {
   tagline: '',
   favicon: 'img/default-favicon.ico',
 
-  url: 'https://tdung939.github.io/', // Your website URL
+  url: 'https://tdung939.github.io', // Your website URL
   baseUrl: '/fbt_guide/',
   projectName: 'fbt_guide',
   organizationName: 'TDung939',
