@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfbt_guide=self.webpackChunkfbt_guide||[]).push([[195],{2841:(e,t,u)=>{u.r(t),u.d(t,{default:()=>c});var n=u(7294),r=u(6550);function c(){return n.createElement(r.l_,{to:"/docs/intro"})}}}]);
